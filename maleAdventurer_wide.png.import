@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/maleAdventurer_wide.png-0e6d855038b87d5134da11c7049e3b97.stex"
+path="res://.import/maleAdventurer_wide.png-1c132292a88c7849a442c86510ca0124.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/maleAdventurer_wide.png"
-dest_files=[ "res://.import/maleAdventurer_wide.png-0e6d855038b87d5134da11c7049e3b97.stex" ]
+source_file="res://maleAdventurer_wide.png"
+dest_files=[ "res://.import/maleAdventurer_wide.png-1c132292a88c7849a442c86510ca0124.stex" ]
 
 [params]
 
